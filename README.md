@@ -3,7 +3,7 @@
 This is my personal portfolio website showcasing my skills, projects, and experience.
 
 ## 🚀 Live Demo
-[Click here to visit my portfolio](https://your-portfolio-link.com)
+[Click here to visit my portfolio]([https://your-portfolio-link.com](https://ashwaninagar46.github.io/)
 
 ## 🛠 Tech Stack
 - HTML5
@@ -17,4 +17,4 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 ## 📂 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/ashwaninagar/ashwaninagar46.github.io.git
