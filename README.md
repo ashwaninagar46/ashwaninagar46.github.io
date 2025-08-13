@@ -12,7 +12,7 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 - Git & GitHub Pages (for deployment)
 
 ## 📸 Preview
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](images/proj_2.png)
 
 ## 📂 How to Run Locally
 1. Clone the repository:
